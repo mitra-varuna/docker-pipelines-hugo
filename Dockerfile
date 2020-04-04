@@ -1,5 +1,5 @@
 FROM alpine:3.7
-MAINTAINER Karel Bemelmans <mail@karelbemelmans.com>
+MAINTAINER Sushant (sushant@ssushant.in)
 
 # Install packages needed to build
 RUN apk add --update --no-cache \
